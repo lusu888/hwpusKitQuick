@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PushKitDemo</string>
+    <string name="pay_service_title">支付服务</string>
+    <string name="push_service_title">推送服务</string>
+    <string name="account_service_title">账号服务</string>
+    <string name="getToken">获取token</string>
+    <string name="deleteToken">删除token</string>
+    <string name="set_push_unable">关闭推送服务</string>
+    <string name="set_push_enable">开启推送服务</string>
+    <string name="add_subscribe_topic">添加订阅主题</string>
+    <string name="set_msg_enable">开启消息服务</string>
+    <string name="get_aaid">获取aaId</string>
+    <string name="delete_aaid">删除aaId</string>
+    <string name="account_connect">连接</string>
+    <string name="sign_in">登录</string>
+    <string name="authorization_sign_in">授权码模式登录</string>
+    <string name="sign_out">登出</string>
+    <string name="add_badge">添加桌面角标</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="add_topic">请输入要添加的主题名称</string>
+    <string name="delete_topic">请输入要删除的主题名称</string>
+    <string name="delete_subscribe_topic">删除订阅主题</string>
+    <string name="send_msg">发送上行消息</string>
+    <string name="silent_sign_in">静默登录</string>
+    <string name="revoke_authority">取消授权</string>
+</resources>
