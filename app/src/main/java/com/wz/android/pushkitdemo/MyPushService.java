@@ -1,4 +1,4 @@
-package com.wz.android.pushkitdemo;
+package com.wz.android.pushkitdemo;// need change
 
 import android.util.Log;
 
